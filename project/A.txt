@@ -1,0 +1,11 @@
+자리 바꾸기전에 해야 할 것들
+  git global 설정 삭제
+    git config --global --unset user.email
+    git config --global --unset user.name
+  windows 자격증명 삭제
+    제어판 > 사용자계정 > 자격증명 관리자
+    Windows 자격증명에서 git lab 자격증명 제거
+
+
+
+
